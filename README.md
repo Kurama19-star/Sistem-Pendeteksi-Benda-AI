@@ -35,3 +35,15 @@ Sistem ini dibangun menggunakan metode **YOLO (You Only Look Once) Versi 8**, ya
 1. Pasang semua kebutuhan:
 ```bash
 pip install -r requirements.txt
+
+---
+### 📥 CARA MENGUNDUH & MEMBUKA PROYEK INI DI KOMPUTER
+1. Buka halaman ini: https://github.com/Kurama19-star/Sistem-Pendeteksi-Benda-AI
+2. Klik tombol hijau bertuliskan **<> Code** → pilih **Download ZIP**
+3. Simpan berkas, lalu **Ekstrak / Keluarkan** semua isinya ke satu folder
+4. Buka CMD / Terminal, masuk ke dalam folder tersebut
+5. Pasang alat: `pip install -r requirements.txt`
+6. Jalankan aplikasi: `python -m streamlit run deteksi_benda.py`
+
+✅ Atau kalau sudah terpasang Git, ketik langsung:
+`git clone https://github.com/Kurama19-star/Sistem-Pendeteksi-Benda-AI.git`
